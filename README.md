@@ -13,7 +13,7 @@
 
 <!-- Animated Social Badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/ayansheikh">
+  <a href="https://linkedin.com/in/ayansheikh111">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0077B5&color=0077B5&animation=glow" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/ayansheikh111">
@@ -110,21 +110,18 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayansheikh1&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="Trophies" width="100%"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayansheikh1&theme=tokyonight" alt="Profile Details" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayansheikh1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayansheikh1&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayansheikh1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ayansheikh1&theme=tokyonight" alt="Productive Time" width="40%"/>
 </p>
 
