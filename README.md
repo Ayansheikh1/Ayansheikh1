@@ -117,8 +117,7 @@
 </p>
 
 <p align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayansheikh1&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=Ayansheikh1&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
