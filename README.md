@@ -1,4 +1,4 @@
-   <h1 align="center">
+     <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayan+Sheikh;Full+Stack+Developer;MERN+Stack+Enthusiast;C%2B%2B+%7C+Java+%7C+JavaScript" alt="Typing Animation" />
 </h1>
 
