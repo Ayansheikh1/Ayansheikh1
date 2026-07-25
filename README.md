@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&duration=2000&pause=1000&color=9370DB&center=true&vCenter=true&width=400&lines=Aspiring+Full+Stack+Developer;From+India+%F0%9F%87%AE%F0%9F%87%B3;Building+cool+stuff+with+code" alt="Subtitle Animation" />
 </h3>
 
+
 <!-- Animated Banner with Wave Effect -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=250&section=header&text=Ayan%20Sheikh&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20C%2B%2B%2FJava&descAlignY=55&animation=twinkling&fontColor=fff" width="100%"/>
